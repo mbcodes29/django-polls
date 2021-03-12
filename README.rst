@@ -1,5 +1,5 @@
 =====
-Polls
+Polls new
 =====
 
 Polls is a Django app to conduct Web-based polls. For each question,
